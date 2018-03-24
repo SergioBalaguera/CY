@@ -1,0 +1,10 @@
+Predictor variable,Categorical,Sample average
+bol_dem,false,182.5677966101695
+bol_flowaccum,false,5473.822033898305
+bol_flowdirec,false,28.88135593220339
+bol_landcover,true,2.0
+bol_treecover,false,58.44915254237288
+wc2.0_bio_30s_02,false,11.23015539524919
+wc2.0_bio_30s_04,false,152.50707012111857
+wc2.0_bio_30s_12,false,1540.8474576271187
+caiman_yacare,false,1.0
